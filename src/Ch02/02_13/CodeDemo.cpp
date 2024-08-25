@@ -9,6 +9,7 @@ int main(){
     float result; 
 
     // Write your code here
+    result = 1+23+32+24+337/5 ;
     
     std::cout << "The average is " << result << std::endl;
     
